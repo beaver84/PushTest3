@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "847054280846",
+    "project_id": "dawn-market-949bb",
+    "storage_bucket": "dawn-market-949bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847054280846:android:ed6d19a806295e062a11df",
+        "android_client_info": {
+          "package_name": "com.example.pushtest3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847054280846-lmk7mu8lrlnkuk09bfnp1b6ifvs02mms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVqJLSPQNnVqpEIy4Lm6hRPBsLae0LLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847054280846-lmk7mu8lrlnkuk09bfnp1b6ifvs02mms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "847054280846-80214d148gjhfsv1mr4jpd3udvftcnae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.teamfresh.dawnmarket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
